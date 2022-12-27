@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![pytorch pic](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpytorch.org%2F&psig=AOvVaw1x2M2pEwa3oC3FBjzlpHlV&ust=1672224900034000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDo77fRmfwCFQAAAAAdAAAAABAD)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpytorch.org%2F&psig=AOvVaw1x2M2pEwa3oC3FBjzlpHlV&ust=1672224900034000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDo77fRmfwCFQAAAAAdAAAAABAD)
 <!--
 **hekaido/hekaido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
