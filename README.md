@@ -1,6 +1,16 @@
 ### Hi there 👋 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpytorch.org%2F&psig=AOvVaw1x2M2pEwa3oC3FBjzlpHlV&ust=1672224900034000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDo77fRmfwCFQAAAAAdAAAAABAD)
+ML Engineer / Data Scientist
+
+#Programming stack
+<p align = 'left'>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/>
+  </a>
+   <a href="https://www.python.org" target="_blank"> 
+    <img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg?uselang=ru" alt="python" width="35" height="35"/>
+  </a>
+  
 <!--
 **hekaido/hekaido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
