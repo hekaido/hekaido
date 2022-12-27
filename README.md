@@ -7,8 +7,8 @@ ML Engineer / Data Scientist
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/>
   </a>
-   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg?uselang=ru" alt="python" width="35" height="35"/>
+   <a> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="python" width="35" height="35"/>
   </a>
   
 <!--
