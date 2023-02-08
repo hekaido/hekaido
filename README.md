@@ -14,11 +14,11 @@ ML Engineer / Data Scientist
 # ML Stack
   Loading....
 # Achievements and experience
-  -DLS Courses </n>
-  -Tinkoff DL Courses ...
-  -RuCode 6.0 2 place ... 
-  -MoreTech 4.0 final tour participant ...
-  -YandexCup participant ...
+  -DLS Courses
+  -Tinkoff DL Courses
+  -RuCode 6.0 2 place 
+  -MoreTech 4.0 final tour participant
+  -YandexCup participant
 <!--
 **hekaido/hekaido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
