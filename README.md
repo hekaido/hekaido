@@ -14,7 +14,7 @@ ML Engineer / Data Scientist
 # ML Stack
   Loading....
 # Achievements and experience
-  -DLS Courses <\n>
+  -DLS Courses
   -Tinkoff DL Courses
   -RuCode 6.0 2 place 
   -MoreTech 4.0 final tour participant
