@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
 ML Engineer / Data Scientist
-
-# Programming stack
+</br> 
+### Programming stack
 <p align = 'left'>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="35" height="35"/>
@@ -11,9 +11,10 @@ ML Engineer / Data Scientist
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="python" width="35" height="35"/>
      <img src = '
   </a>
-  
-# ML Stack
+                 </p>
+### ML Stack
   Loading....
+                 
 ### Achievements and experience
 * [DLS Courses]
 * [Tinkoff DL Courses]
