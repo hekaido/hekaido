@@ -44,6 +44,7 @@ ML Engineer / Data Scientist
 ### Achievements and experience
 * 📚[DLS Courses](https://dls.samcs.ru/)
 * 📚[Tinkoff DL Courses](https://fintech.tinkoff.ru/school/generation/dl/) (2022 - 2023)
+* 🥈 [RuCode 7.0 5 place](https://rucode.net/)
 * 🥈 [RuCode 6.0 2 place](https://rucode.net/) | [solution](https://github.com/hekaido/rucode_6) 
 * 🏁[MoreTech 4.0 final tour participant](https://moretech.vtb.ru/) | [dimploma](https://drive.google.com/file/d/1tpBcHq02cy2ivgysxL1Qf4sG13EnpKox/view?usp=sharing)
 * 🖖[YandexCup participant]()
