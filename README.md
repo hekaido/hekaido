@@ -51,6 +51,7 @@ ML Engineer / Data Scientist
 
 ### Projects
 * [Pix2Pix pytorch implementation](https://github.com/hekaido/pix2pix_torch_implementation)
+* [Naruto character image generation](https://github.com/hekaido/naruto_character_image_generation)
 * Image captioning (in proress ✨)
 
 ### Hobies
