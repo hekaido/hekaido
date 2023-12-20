@@ -45,13 +45,15 @@ ML Engineer / Data Scientist
 * 📚[DLS Courses](https://dls.samcs.ru/)
 * 📚[Tinkoff DL Courses](https://fintech.tinkoff.ru/school/generation/dl/) (2022 - 2023)
 * 🥈 [RuCode 7.0 5 place](https://rucode.net/)
-* 🥈 [RuCode 6.0 2 place](https://rucode.net/) | [solution](https://github.com/hekaido/rucode_6) 
+* 🥈 [RuCode 6.0 2 place](https://rucode.net/) | [solution](https://github.com/hekaido/rucode_6)
+* 🥈 [ЛЦТ Краснодарский край](https://i.moscow/lct/krasnodar) Детекция нелегальный стациорной торговли
 * 🏁[MoreTech 4.0 final tour participant](https://moretech.vtb.ru/) | [dimploma](https://drive.google.com/file/d/1tpBcHq02cy2ivgysxL1Qf4sG13EnpKox/view?usp=sharing)
 * 🖖[YandexCup participant]()
+* [Go Algo Finalist]()
 
 ### Projects
-* [Pix2Pix pytorch implementation](https://github.com/hekaido/pix2pix_torch_implementation)
 * [Naruto character image generation](https://github.com/hekaido/naruto_character_image_generation)
+* [Pix2Pix pytorch implementation](https://github.com/hekaido/pix2pix_torch_implementation)
 * Image captioning (in proress ✨)
 
 ### Hobies
